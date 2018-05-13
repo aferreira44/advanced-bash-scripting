@@ -1,4 +1,4 @@
-# advanced-bash-scripting
+# Advanced Bash-Scripting
 Bash scripting study material
 
 ## Resources:
